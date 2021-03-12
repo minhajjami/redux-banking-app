@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgb(10, 10, 73);
+    color: white;
+}
+.footer-list .list-group-item{
+    padding: 0px;
+    background: transparent;
+}
+
